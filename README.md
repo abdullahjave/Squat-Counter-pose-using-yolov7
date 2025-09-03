@@ -185,8 +185,15 @@ Stage: Stand
 Done. (0.045s)
 ```
 
-### Video Output
+### Outputs
+
+<img width="768" height="522" alt="image" src="https://github.com/user-attachments/assets/77bfab1f-daae-48f1-b7e3-513102b5e99f" />
+
 - Processed video saved in `runs/detect/exp/`
+
+https://github.com/user-attachments/assets/f851174e-89c9-4bf4-a20c-c130642813b9
+
+
 - Includes squat counter overlay and pose visualization
 - Original video resolution maintained
 
